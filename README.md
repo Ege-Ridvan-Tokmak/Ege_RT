@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @Egegtb
+- 👀 I'm Interested in Software...
+- 🌱I'm currently learning software.
+- 📫 You can reach me at tegeridvan@gmail.com
