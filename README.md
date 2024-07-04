@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Egegtb
+- 👋 Hello, I'm @Ege Rıdvan Tokmak
 - 👀 I'm Interested in Software...
 - 🌱I'm currently learning software.
 - 📫 You can reach me at tegeridvan@gmail.com
